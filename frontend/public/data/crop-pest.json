@@ -1,0 +1,27 @@
+{
+  "1": [
+    { "pestId": 101, "damagePart": "茎基部", "damageLevel": 3, "isMajor": true },
+    { "pestId": 102, "damagePart": "茎基部", "damageLevel": 2, "isMajor": true },
+    { "pestId": 103, "damagePart": "茎秆", "damageLevel": 3, "isMajor": true },
+    { "pestId": 104, "damagePart": "叶片", "damageLevel": 2, "isMajor": true },
+    { "pestId": 105, "damagePart": "心叶", "damageLevel": 1, "isMajor": false }
+  ],
+  "2": [
+    { "pestId": 108, "damagePart": "叶片/穗部", "damageLevel": 3, "isMajor": true },
+    { "pestId": 109, "damagePart": "叶片", "damageLevel": 2, "isMajor": true }
+  ],
+  "3": [
+    { "pestId": 105, "damagePart": "心叶/茎秆", "damageLevel": 3, "isMajor": true },
+    { "pestId": 107, "damagePart": "茎秆/穗部", "damageLevel": 3, "isMajor": true },
+    { "pestId": 109, "damagePart": "叶片", "damageLevel": 2, "isMajor": false },
+    { "pestId": 106, "damagePart": "穗部/茎秆", "damageLevel": 2, "isMajor": false }
+  ],
+  "4": [
+    { "pestId": 106, "damagePart": "花蕾/棉铃", "damageLevel": 3, "isMajor": true },
+    { "pestId": 108, "damagePart": "嫩尖/叶片", "damageLevel": 2, "isMajor": true }
+  ],
+  "5": [
+    { "pestId": 110, "damagePart": "豆荚", "damageLevel": 3, "isMajor": true },
+    { "pestId": 108, "damagePart": "叶片/茎秆", "damageLevel": 2, "isMajor": false }
+  ]
+}
